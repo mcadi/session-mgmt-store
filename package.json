@@ -8,6 +8,7 @@
   "dependencies": {
     "express": "~4.9.x",
     "connect": "~2.x",
+    "express-session": "1.9.2",
     "connect-redis": "2.1.0"
   },
   "engines": {
